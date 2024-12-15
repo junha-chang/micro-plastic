@@ -24,7 +24,7 @@
   font-size: 36px;
   font-weight: 900;
   position: absolute;
-  left: calc(50% - 573px);
+  left: 400px;
   top: 3484px;
   width: 430px;
   height: 99px;
@@ -783,6 +783,7 @@
   position: absolute;
   left: 356px;
   top: 5051px;
+  box-shadow: 0px 5px 20px rgba(0, 64, 83, 0.706); /* 그림자 추가 */
 }
 .div27 {
   color: #ffffff;
@@ -1053,7 +1054,7 @@
   width: 1015px;
   height: 637px;
   position: absolute;
-  left: 448px;
+  left: 398px;
   top: 5376px;
   object-fit: cover;
 }
@@ -1061,7 +1062,7 @@
   width: 1410px;
   height: 982px;
   position: absolute;
-  left: 260px;
+  left: 210px;
   top: 7444px;
   object-fit: cover;
 }
@@ -1077,7 +1078,7 @@
   width: 1190px;
   height: 923.49px;
   position: absolute;
-  left: 365px;
+  left: 315px;
   top: 8569px;
   object-fit: cover;
 }
@@ -1149,7 +1150,7 @@
   width: 1195px;
   height: 1170px;
   position: absolute;
-  left: 360px;
+  left: 310px;
   top: 10921px;
   object-fit: cover;
 }
@@ -1166,7 +1167,7 @@
   width: 517px;
   height: 58px;
   position: absolute;
-  left: 695px;
+  left: 645px;
   top: 10820px;
 }
 .div37 {
@@ -1176,7 +1177,7 @@
   font-size: 26px;
   font-weight: 900;
   position: absolute;
-  left: 712px;
+  left: 672px;
   top: 10835px;
   width: 491px;
   height: 86px;
